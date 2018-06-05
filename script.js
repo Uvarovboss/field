@@ -23,6 +23,9 @@ ball.style.top = ballCoords.top + 'px';
 }
 
 
+// var evenY = event.clientY;
+// var evenX = event.clientX;
+//  document.getElementById("ball").innerHTML = style.
 // var backg = document.getElementById('field');
 
 // backg.onclick =function () {
